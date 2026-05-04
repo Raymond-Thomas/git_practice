@@ -15,3 +15,5 @@ Successfully pushed to GitHub!
 ## Technologies
 - Python
 Git & GitHub
+
+## Updated from Github
