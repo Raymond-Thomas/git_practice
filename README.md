@@ -21,3 +21,6 @@ Git & GitHub
 ## Development Enviroment
 - Using Visual Studio Code for Git Intergration
 - VS Code provides a visual interface for Git operations
+
+## Contributors
+- Lucas
